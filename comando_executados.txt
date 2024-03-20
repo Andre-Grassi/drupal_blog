@@ -1,0 +1,53 @@
+ 1749  ls
+ 1750  mkdir blog
+ 1751  cd blog
+ 1752  ddev --verison
+ 1753  ddev --version
+ 1754  sudo apt install libnss3-tools
+ 1755  mkcert -install
+ 1756  system restart
+ 1757  sudo system restart
+ 1758  cd ..
+ 1759  cd blog
+ 1760  cd drupal
+ 1761  cd blog
+ 1762  mkcert --version
+ 1763  brew
+ 1764  test -d ~/.linuxbrew && eval "$(~/.linuxbrew/bin/brew shellenv)"\ntest -d /home/linuxbrew/.linuxbrew && eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"\necho "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.bashrc
+ 1765  test -d ~/.linuxbrew && eval "$(~/.linuxbrew/bin/brew shellenv)"
+ 1766  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ 1767  echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/andre/.zshrc\n    eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+ 1768  echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/andre/.zshrc;\n    eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+ 1769  test -d ~/.linuxbrew && eval "$(~/.linuxbrew/bin/brew shellenv)\n
+ 1770  test -d ~/.linuxbrew && eval "$(~/.linuxbrew/bin/brew shellenv)"
+ 1771  brew
+ 1772  test -d /home/linuxbrew/.linuxbrew && eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+ 1773  echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.bashrc
+ 1774  brew
+ 1775  brew install mkcert
+ 1776  # Add DDEV’s GPG key to your keyring\nsudo sh -c 'echo ""';\nsudo install -m 0755 -d /etc/apt/keyrings;\ncurl -fsSL https://pkg.ddev.com/apt/gpg.key | gpg --dearmor | sudo tee /etc/apt/keyrings/ddev.gpg > /dev/null;\nsudo chmod a+r /etc/apt/keyrings/ddev.gpg;\n\n# Add DDEV releases to your package repository\nsudo sh -c 'echo ""';\necho "deb [signed-by=/etc/apt/keyrings/ddev.gpg] https://pkg.ddev.com/apt/ * *" | sudo tee /etc/apt/sources.list.d/ddev.list >/dev/null;\n\n# Update package information and install DDEV\nsudo sh -c 'echo ""';\nsudo apt update && sudo apt install -y ddev;
+ 1777  ddevb
+ 1778  ddev
+ 1779  ddev config --project-type drupal10 --create-docroot --docroot web
+ 1780  docker
+ 1781  sudo ddev config --project-type drupal10 --create-docroot --docroot web
+ 1782  docker-ce
+ 1783  cd blog
+ 1784  ddev config --project-type drupal10 --create-docroot --docroot web
+ 1785  docker -v
+ 1786  docker ps
+ 1787  docker run
+ 1788  docker start
+ 1789  cat /etc/group
+ 1790  docker run hello-world
+ 1791  systemctl
+ 1792  start docker
+ 1793  service docker start
+ 1794  sudo service docker start
+ 1795  docker ps
+ 1796  docker run hello-world
+ 1797  ddev config --project-type drupal10 --create-docroot --docroot web
+ 1798  touch how_to_create_ddev
+ 1799  cat history
+ 1800  history
+ 1801  touch comando_executados.txt
